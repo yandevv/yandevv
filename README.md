@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Yan 👋 ![visitors](https://komarev.com/ghpvc/?username=yandevv&style=plastic)
 
-<!--
-**yandevv/yandevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![linkedin](https://img.shields.io/badge/LinkedIn-0B63BD?style=for-the-badge&logo=linkedin&logoColor=white?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyandevv%2F)
+![twitter](https://img.shields.io/badge/X%20(Twitter)-black?style=for-the-badge&logo=x&logoColor=000?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyandevv%2F)
+![instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=000?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyandevv%2F)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me 😉
+
+I'm a fullstack engineer based in Franca, São Paulo.
+
+- Pursuing my Bachelor in Software Engineering 💻
+- Currently learning React 💡
