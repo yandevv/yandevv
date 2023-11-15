@@ -1,8 +1,8 @@
 # Hi, I'm Yan 👋 ![visitors](https://komarev.com/ghpvc/?username=yandevv&style=plastic)
 
-[![LinkedIn](https://img.shields.io/badge/-Yan%20Victor-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yandevv/)](https://www.linkedin.com/in/yandevv/)
-[![X](https://img.shields.io/badge/-@yandevv-black?style=for-the-badge&logo=x&logoColor=white&link=https://twitter.com/yandevv_)](https://twitter.com/yandevv_)
-[![Instagram](https://img.shields.io/badge/-@yanvictor_1-FE5455?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/yanvictor_1/)](https://www.instagram.com/yanvictor_1/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Yan%20Victor-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yandevv/)](https://www.linkedin.com/in/yandevv/)
+[![X Badge](https://img.shields.io/badge/-@yandevv-black?style=for-the-badge&logo=x&logoColor=white&link=https://twitter.com/yandevv_)](https://twitter.com/yandevv_)
+[![Instagram Badge](https://img.shields.io/badge/-@yanvictor_1-FE5455?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/yanvictor_1/)](https://www.instagram.com/yanvictor_1/)
 
 
 ### About me 😉
