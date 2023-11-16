@@ -14,19 +14,23 @@ I'm a fullstack engineer based in Franca, São Paulo.
 
 ### Tools I use 🔨
 
-<img src="./static/icons/githubIcon.svg" width="50" height="50" >
-<img src="./static/icons/vscodeIcon.svg" width="50" height="50" style="margin-left: 15px">
-<img src="./static/icons/gitIcon.svg" width="50" height="50" style="margin-left: 15px">
-<img src="./static/icons/figmaIcon.svg" width="50" height="50" style="margin-left: 15px">
-<img src="./static/icons/obsidianIcon.svg" width="50" height="50" style="margin-left: 15px">
+<div>
+    <img src="./static/icons/githubIcon.svg" width="50" height="50" >
+    <img src="./static/icons/vscodeIcon.svg" width="50" height="50" style="margin-left: 15px">
+    <img src="./static/icons/gitIcon.svg" width="50" height="50" style="margin-left: 15px">
+    <img src="./static/icons/figmaIcon.svg" width="50" height="50" style="margin-left: 15px">
+    <img src="./static/icons/obsidianIcon.svg" width="50" height="50" style="margin-left: 15px">
+</div>
 
 ### Tech Stack 👩🏻‍💻
 
-<img src="./static/icons/typescriptIcon.svg" height="50" width="50">
-<img src="./static/icons/reactIcon.svg" style="margin-left: 15px" height="50" width="50">
-<img src="./static/icons/nextIcon.svg" style="margin-left: 15px" height="50" width="50">
-<img src="./static/icons/tailwindIcon.svg" style="margin-left: 15px" height="50" width="50">
-<img src="./static/icons/javascriptIcon.svg" height="50" width="50" style="margin-left: 15px">
-<img src="./static/icons/firebaseIcon.svg" style="margin-left: 15px" height="50" width="50">
-<img src="./static/icons/htmlIcon.svg" style="margin-left: 15px" height="50" width="50">
-<img src="./static/icons/cssIcon.svg" style="margin-left: 15px" height="50" width="50">
+<div>
+    <img src="./static/icons/typescriptIcon.svg" height="50" width="50">
+    <img src="./static/icons/reactIcon.svg" style="margin-left: 15px" height="50" width="50">
+    <img src="./static/icons/nextIcon.svg" style="margin-left: 15px" height="50" width="50">
+    <img src="./static/icons/tailwindIcon.svg" style="margin-left: 15px" height="50" width="50">
+    <img src="./static/icons/javascriptIcon.svg" height="50" width="50" style="margin-left: 15px">
+    <img src="./static/icons/firebaseIcon.svg" style="margin-left: 15px" height="50" width="50">
+    <img src="./static/icons/htmlIcon.svg" style="margin-left: 15px" height="50" width="50">
+    <img src="./static/icons/cssIcon.svg" style="margin-left: 15px" height="50" width="50">
+</div>
