@@ -24,7 +24,7 @@ I'm a fullstack engineer based in Franca, São Paulo.
 
 ### Tech Stack 👩🏻‍💻
 
-<div style="flex: 1; gap: 15px">
+<div style="flex: 1; gap: 15px; margin-bottom: 24px">
     <img src="./static/icons/typescriptIcon.svg" height="50" width="50">
     <img src="./static/icons/reactIcon.svg" height="50" width="50">
     <img src="./static/icons/nextIcon.svg" height="50" width="50">
@@ -34,3 +34,5 @@ I'm a fullstack engineer based in Franca, São Paulo.
     <img src="./static/icons/htmlIcon.svg" height="50" width="50">
     <img src="./static/icons/cssIcon.svg" height="50" width="50">
 </div>
+
+<!-- [![roadmap.sh](https://roadmap.sh/card/tall/665f74fab998f3b3c7a8a9a4?variant=dark)](https://roadmap.sh) -->
